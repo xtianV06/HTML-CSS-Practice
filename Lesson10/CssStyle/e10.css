@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px;
+    width: 200px;
+    border-color: rgba(51, 48, 48, 0.123);
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.15);
+    margin: 2px;
+    display: inline-block;
+}
+
+.img1{
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
+}
+
+.Gname{
+    color: black;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    margin-left: 3px;
+}
+
+.subImg{
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    object-fit: fill;
+}
+
+.subImg, .Gsubtext{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.Gsubtext{
+    font-size: 14px;
+    color: rgb(99, 98, 98);
+}
+
+.subContent{
+    padding: 2px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.add1G{
+    background-color: rgb(7, 111, 230);
+    color: white;
+    border-style: none;
+    border-radius: 3px;
+    margin-left: 6px;
+    margin-top: 3px;
+    margin-bottom: 6px;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+
+
+
+/* .g9{
+    width: 150px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(51, 48, 48, 0.123);
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.15);
+    display: inline-block;
+}
+
+.gr8{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 0;
+}
+.Gname{
+    color: black;
+    font-size: 14px;
+    font-weight: 700;
+    margin: 0;
+    font-family: sans-serif;
+    margin-left: 5px;
+}
+
+.Gsubtext{
+    margin: 0;
+    color: rgb(129, 129, 129);
+    font-size: 12px;
+    font-family: sans-serif;
+    margin-left: 5px;
+}
+.add1G{
+    background-color: rgb(7, 111, 230);
+    color: white;
+    border-style: none;
+    border-radius: 2px;
+    margin: 5px;
+    padding: 4px 8px;
+    cursor: pointer;
+} */

@@ -1,0 +1,140 @@
+.e12-container{
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 8px;
+    border-color: rgba(71, 69, 69, 0.15);
+    box-shadow: 10px 10px 10px rgba(0,0,0, 0.15);
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 20px;
+    
+}
+
+.sub1, .sub2, .sub3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+p{
+    margin: 0;
+    font-family: monospace;
+    padding: 2px;
+}
+
+.text{
+    font-size: 12px;
+}
+
+.value{
+    background-color: rgb(12, 151, 231);
+    border-style: none;
+    border-radius: 10px;
+    font-weight: 700;
+    color: white;
+    padding-left: 8px;
+    padding-right: 8px;
+    cursor: pointer;
+}
+
+.value:hover{
+    background-color: rgb(3, 136, 212);
+}
+
+/* f12 */
+.f12-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(120, 82, 178);
+    padding-left: 15px;
+    padding-right: 15px;
+    align-items: center;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.home-link {
+    font-weight: bold;
+}
+
+.text-box {
+    width: 500px;
+    border: none;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    height: 30px;
+    border-radius: 15px;
+    padding-left: 20px;
+}
+
+button {
+    background-color: rgb(120, 82, 178);
+    color: white;
+    font-size: 16px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 2px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+  /* g12 */
+.g12-container{
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 6px;
+}
+  
+img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    object-fit: fill;
+    flex: 1;
+}
+.details{
+    flex: 2;
+    margin-left: 8px;
+}
+
+.btnFollow{
+    flex: 1;
+    text-align: center;
+    background-color: rgb(34, 133, 226);
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+
+.MainText, .subtext1, .subtext2{
+    margin: 0;
+    line-height: 12px;
+
+}
+
+.MainText{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.subtext1{
+    font-size: 14px;
+    color: gray;
+}
+
+.subtext2{
+    font-size: 12px;
+    color: gray;
+}

@@ -1,0 +1,131 @@
+.e9{
+    display: flex;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(0, 0, 0, 0.15);
+    padding: 6px 15px 12px 6px;
+    border-radius: 15px;
+    width: 350px;
+    box-shadow: 0 5px 5px rgba(22, 22, 22, 0.205);
+    margin-bottom: 15px;
+}
+
+.bird{
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+}
+
+.g7{
+    width: 250px;
+    height: 20px;
+    padding-top: 8px;
+    padding-left: 2px;
+    padding-bottom: 2px;
+    margin-left: 2px;
+    margin-right: 1px;
+    margin-top: 3px;
+    border-style: none;
+    color: black;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.tweetbtn{
+    width: 70px;
+    height: 28px;
+    border-radius: 15px;
+    background-color: rgb(34, 138, 236);
+    color: white;
+    padding: 2px;
+    border-style: none;
+    font-weight: 700;
+    margin-top: 6px;
+    cursor: pointer;
+    transition: background-color 1s;
+}
+
+.tweetbtn:hover{
+    background-color: rgb(0, 75, 187);
+}
+
+.f9{
+    width: 150px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(51, 48, 48, 0.123);
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.15);
+}
+
+.r8{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 0;
+}
+.name{
+    color: black;
+    font-size: 14px;
+    font-weight: 700;
+    margin: 0;
+    font-family: sans-serif;
+    margin-left: 5px;
+}
+
+.subtext{
+    margin: 0;
+    color: rgb(129, 129, 129);
+    font-size: 12px;
+    font-family: sans-serif;
+    margin-left: 5px;
+}
+.add1{
+    background-color: rgb(7, 111, 230);
+    color: white;
+    border-style: none;
+    border-radius: 2px;
+    margin: 5px;
+    padding: 4px 8px;
+    cursor: pointer;
+}
+
+.g9{
+    width: 150px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(51, 48, 48, 0.123);
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.15);
+    display: inline-block;
+}
+
+.gr8{
+    width: 150px;
+    height: 150px;
+    margin-bottom: 0;
+}
+.Gname{
+    color: black;
+    font-size: 14px;
+    font-weight: 700;
+    margin: 0;
+    font-family: sans-serif;
+    margin-left: 5px;
+}
+
+.Gsubtext{
+    margin: 0;
+    color: rgb(129, 129, 129);
+    font-size: 12px;
+    font-family: sans-serif;
+    margin-left: 5px;
+}
+.add1G{
+    background-color: rgb(7, 111, 230);
+    color: white;
+    border-style: none;
+    border-radius: 2px;
+    margin: 5px;
+    padding: 4px 8px;
+    cursor: pointer;
+}

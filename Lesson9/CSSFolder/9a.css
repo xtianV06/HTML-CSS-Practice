@@ -1,0 +1,45 @@
+div{
+    margin-bottom: 10px;
+}
+
+.a9{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+.b9{
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    border-style: none;
+    border-radius: 50px;
+}
+.c9{
+    border-width: 1px;
+    border-color: gray;
+    border-style: solid;
+    width: 200px;
+    padding: 10px;
+}
+.service{
+    margin: 5px;
+}
+.d9{
+    width: 300px;
+    background-color: rgb(34, 32, 32);
+    padding: 10px;
+}
+.maintext{
+    margin: 0;
+    color: white;
+    font-size: 22px;
+    font-weight: 800;
+    font-family: Arial;
+}
+.subtext{
+    margin-top: 8px;
+    color: rgb(110, 106, 106);
+    font-size: 15px;
+    font-family: Arial;
+    margin-bottom: 2px;
+}

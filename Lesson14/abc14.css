@@ -1,0 +1,17 @@
+body{
+    height: 3000px;
+}
+.right-sidebar{
+    position: fixed;
+    /* right:20px;
+    bottom:20px; A14 exercise (Bottom-sidebar) */
+    /* right: 0;
+    top: 0;
+    bottom: 0;
+    width: 100px;  B14 exercise (right-sidebar)*/
+    /* right: 0;
+    top: 0;
+    bottom: 0;
+    left: 0; C14 exercise(cover entire page)*/
+    background-color: black;
+}

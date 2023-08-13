@@ -1,0 +1,19 @@
+.a11-grid{
+    display: grid;
+    grid-template-columns: 200px 75px;
+    margin-bottom: 12px;
+}
+
+.b11-grid{
+    display: grid;
+    grid-template-columns: 50px 1fr 75px;
+    margin-bottom: 12px;
+}
+
+.c11-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-bottom: 12px;
+    row-gap: 10px;
+    column-gap: 20px;
+}

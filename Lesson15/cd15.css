@@ -1,0 +1,35 @@
+body{
+    margin: 20px;
+}
+
+.pos1, .pos2{
+    position: relative;
+    width: 300px;
+    height: 150px;
+    background-color: gray;
+    margin-bottom: 50px;
+}
+
+.abs1, .abs2{
+    position: absolute;
+    top: -12px;
+    left: -12px;
+    background-color: black;
+    color: white;
+    padding: 7px 10px;
+    border-radius: 20px;
+    font-family: Arial;
+    font-size: 15px;
+}
+.time{
+    background-color: black;
+    position: absolute;
+    color: white;
+    bottom: 10px;
+    right: 10px;
+    padding: 2px 5px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+

@@ -1,0 +1,45 @@
+.main-div{
+    display: flex;
+    margin-bottom: 20px;
+}
+.div1{
+    background-color: lightblue;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    background-color: black;
+    color: white;
+}
+
+.div2{
+    background-color: lightgreen;
+    width: 200px;
+}
+
+.div3{
+    background-color: lightblue;
+    width: 100px;
+}
+
+.div4{
+    background-color: lightgreen;
+    width: 200px;
+}
+
+.div5{
+    display: flex;
+    justify-content: space-between;
+}
+
+.blackText{
+    color: black;
+    background-color: lightgreen;
+    margin: 0;
+}
+
+.row2{
+    margin-top: 0;
+}

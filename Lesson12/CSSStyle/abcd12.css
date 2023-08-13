@@ -1,0 +1,75 @@
+.containerA{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.div1{
+    background-color: lightgreen;
+    width: 200px;
+}
+
+.div2{
+    background-color: lightslategray;
+    width: 75px;
+}
+
+.containerB{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+
+.item1{
+    width: 50px;
+    background-color: lightgreen;
+}
+
+.item2{
+    flex: 1;
+    background-color: lightslategray;
+}
+
+.item3{
+    width: 75px;
+    background-color: lightgreen;
+}
+
+.containerC{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    justify-content: space-between;
+}
+
+.c1{
+    background-color: lightgreen;
+}
+.c2{
+    background-color: lightslategray;
+}
+.c3{
+    background-color: lightgreen;
+}
+.c4{
+    background-color: lightslategray;
+}
+
+.containerD{
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left{
+    background-color: lightgreen;
+}
+
+.right{
+    background-color: lightslategray;
+}

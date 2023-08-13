@@ -1,0 +1,56 @@
+
+.img-container{
+    display: inline-block;
+    vertical-align: top;
+    border-style: solid;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.texts{
+    display: inline-block;
+    line-height: 0;
+    vertical-align: top;
+    width: 100px;
+    border-style: solid;
+    padding: 0;
+}
+
+.followbtn{
+    display: inline-block;
+    vertical-align: top;
+    border-style: solid;
+    padding: 15px;
+}
+
+button{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(43, 143, 236);
+    color: white;
+    border-style: none;
+    
+}
+
+p{
+    color: rgb(116, 108, 108);
+    font-size: 12px;
+    line-height: 10px;
+    border: 1px solid red;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.oliver{
+    font-size: 15px;
+    color: black;
+    font-weight: 700;
+}
