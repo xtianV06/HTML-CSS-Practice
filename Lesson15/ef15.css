@@ -29,13 +29,34 @@ body{
     justify-content: center;
     height: 55px;
     position: absolute;
-    bottom: 0px;
+    bottom: 5px;
     left: 0;
     right: 0;
     align-items: center;
 }
-button{
+.btn-add-cart{
     padding: 4px 8px;
     background-color: white;
     font-size: 12px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-add-cart div{
+    background-color: rgb(122, 122, 122);
+    position: absolute;
+    bottom: -25px;
+    color: white;
+    padding: 4px 8px;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.15s;
+    
+}
+
+.btn-add-cart:hover div{
+    opacity: 1;
 }
